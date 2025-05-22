@@ -93,14 +93,8 @@ start_client()
 
 ## OUPUT
 
-## CLIENT
 
-![311160938-e7e6b228-4b03-4cb3-89a7-a4254be93126](https://github.com/user-attachments/assets/3f0d778e-3668-4611-a982-5deb304a0824)
-
-## SERVER
-
-![311160898-d2591855-6acd-4919-b2ea-576b16ce3f48](https://github.com/user-attachments/assets/a12ebb27-f06c-4270-9421-e7dd0fcc730e)
-
+![Screenshot (204)](https://github.com/user-attachments/assets/cd089e7d-d3a0-44de-8518-67cf9fa07b81)
 
 
 
